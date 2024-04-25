@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #111010;
+}
+h1{
+    color: #ffff;
+    margin-left: 300px;
+    font-size: 40px;
+} 
+h2{
+    color: #ffff;
+    margin-left: 300px;
+    font-size: 40px;
+
+}
+#btn1{
+    margin-left: 500px;
+    background-color: #ff0000;
+    color: #ffff;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+
+}
+ .btn2{
+    background-color: #ff0000;
+    color: #ffff;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px; 
+} 
+img{
+    margin-left: 500px;  
+    height: 100px;
+    
+}
